@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Home page",
+    "content": [
+      "Banner",
+      "Buscador",
+      "Propiedades recientes",
+      "Categorías",
+      "Servicios",
+      "Por que nosotros?",
+      "Ciudades",
+      "Agentes",
+      "Estadísticas",
+      "Buenas criticas",
+      "Últimos posts"
+    ]
+  },
+  {
+    "name": "Acerca de",
+    "content": [
+      "Nuestra historia",
+      "Nuestro equipo",
+      "Nuestros servicios",
+      "Buenas criticas"
+    ]
+  },
+  { "name": "Blog", "content": ["Posts", "Detalle del post"] },
+  { "name": "Política de privacidad", "content": ["Descripción"] },
+  { "name": "Preguntas frecuentes", "content": ["Preguntas"] },
+  {
+    "name": "Contacto",
+    "content": ["Formulario de contacto", "Ubicación(es)"]
+  },
+  {
+    "name": "Buscar",
+    "content": ["Búsqueda, filtro y ordenamiento", "Listado", "Pagination"]
+  },
+  {
+    "name": "Detalle de propiedad",
+    "content": [
+      "Carrusel de imágenes",
+      "Información",
+      "Descripción",
+      "Detalles básicos",
+      "Comodidades",
+      "Características",
+      "Planos",
+      "Formulario de contacto",
+      "Formulario para agendar cita",
+      "Información del agente"
+    ]
+  },
+  {
+    "name": "Comparador de propiedades",
+    "description": "En esta pagina el usuario podrá hacer una comparación entre diferentes propiedades para poder tomar una mejor decision"
+  },
+  {
+    "name": "Admin",
+    "description": "En este modulo el usuario podrá administrar todo el sistema",
+    "content": [
+      "Dashboard",
+      "Perfil",
+      "Propiedades",
+      "Solicitudes de contacto",
+      "Solicitudes de información de una propiedad",
+      "Solicitudes de cita",
+      "Citas",
+      "Ventas",
+      "Sistema de cobro",
+      "Facturación (plan plus)",
+      "Algún otro apartado que ayude a administrar el negocio"
+    ]
+  },
+  ["Home", "Acerca de", "Política de privacidad", "Contacto"],
+  ["Blog"],
+  [
+    "Dashboard",
+    "Propiedades",
+    "Solicitudes de contacto",
+    "Solicitudes de información de una propiedad",
+    "Solicitudes de cita para una propiedad",
+    "Agenda de citas"
+  ]
+]
